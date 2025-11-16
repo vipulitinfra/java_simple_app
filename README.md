@@ -14,3 +14,5 @@ Repository URL: https://github.com/vipulitinfrajava_simple_app.git
 Branch: */main
 Script Path: Jenkinsfile
 Save and click Build Now
+open port 9090
+and check app with ip address:9090
